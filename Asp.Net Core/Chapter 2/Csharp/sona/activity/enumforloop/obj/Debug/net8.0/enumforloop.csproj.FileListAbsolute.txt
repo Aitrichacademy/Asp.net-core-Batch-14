@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\enumforloop\bin\Debug\net8.0\enumforloop.exe
+E:\DOTNETCORE\dotnet\enumforloop\bin\Debug\net8.0\enumforloop.deps.json
+E:\DOTNETCORE\dotnet\enumforloop\bin\Debug\net8.0\enumforloop.runtimeconfig.json
+E:\DOTNETCORE\dotnet\enumforloop\bin\Debug\net8.0\enumforloop.dll
+E:\DOTNETCORE\dotnet\enumforloop\bin\Debug\net8.0\enumforloop.pdb
+E:\DOTNETCORE\dotnet\enumforloop\obj\Debug\net8.0\enumforloop.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\enumforloop\obj\Debug\net8.0\enumforloop.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\enumforloop\obj\Debug\net8.0\enumforloop.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\enumforloop\obj\Debug\net8.0\enumforloop.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\enumforloop\obj\Debug\net8.0\enumforloop.dll
+E:\DOTNETCORE\dotnet\enumforloop\obj\Debug\net8.0\refint\enumforloop.dll
+E:\DOTNETCORE\dotnet\enumforloop\obj\Debug\net8.0\enumforloop.pdb
+E:\DOTNETCORE\dotnet\enumforloop\obj\Debug\net8.0\enumforloop.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\enumforloop\obj\Debug\net8.0\ref\enumforloop.dll

@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\enumOrderStatus\bin\Debug\net8.0\enumOrderStatus.exe
+E:\DOTNETCORE\dotnet\enumOrderStatus\bin\Debug\net8.0\enumOrderStatus.deps.json
+E:\DOTNETCORE\dotnet\enumOrderStatus\bin\Debug\net8.0\enumOrderStatus.runtimeconfig.json
+E:\DOTNETCORE\dotnet\enumOrderStatus\bin\Debug\net8.0\enumOrderStatus.dll
+E:\DOTNETCORE\dotnet\enumOrderStatus\bin\Debug\net8.0\enumOrderStatus.pdb
+E:\DOTNETCORE\dotnet\enumOrderStatus\obj\Debug\net8.0\enumOrderStatus.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\enumOrderStatus\obj\Debug\net8.0\enumOrderStatus.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\enumOrderStatus\obj\Debug\net8.0\enumOrderStatus.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\enumOrderStatus\obj\Debug\net8.0\enumOrderStatus.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\enumOrderStatus\obj\Debug\net8.0\enumOrderStatus.dll
+E:\DOTNETCORE\dotnet\enumOrderStatus\obj\Debug\net8.0\refint\enumOrderStatus.dll
+E:\DOTNETCORE\dotnet\enumOrderStatus\obj\Debug\net8.0\enumOrderStatus.pdb
+E:\DOTNETCORE\dotnet\enumOrderStatus\obj\Debug\net8.0\enumOrderStatus.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\enumOrderStatus\obj\Debug\net8.0\ref\enumOrderStatus.dll

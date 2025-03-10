@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\bookstruct\bin\Debug\net8.0\bookstruct.exe
+E:\DOTNETCORE\dotnet\bookstruct\bin\Debug\net8.0\bookstruct.deps.json
+E:\DOTNETCORE\dotnet\bookstruct\bin\Debug\net8.0\bookstruct.runtimeconfig.json
+E:\DOTNETCORE\dotnet\bookstruct\bin\Debug\net8.0\bookstruct.dll
+E:\DOTNETCORE\dotnet\bookstruct\bin\Debug\net8.0\bookstruct.pdb
+E:\DOTNETCORE\dotnet\bookstruct\obj\Debug\net8.0\bookstruct.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\bookstruct\obj\Debug\net8.0\bookstruct.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\bookstruct\obj\Debug\net8.0\bookstruct.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\bookstruct\obj\Debug\net8.0\bookstruct.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\bookstruct\obj\Debug\net8.0\bookstruct.dll
+E:\DOTNETCORE\dotnet\bookstruct\obj\Debug\net8.0\refint\bookstruct.dll
+E:\DOTNETCORE\dotnet\bookstruct\obj\Debug\net8.0\bookstruct.pdb
+E:\DOTNETCORE\dotnet\bookstruct\obj\Debug\net8.0\bookstruct.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\bookstruct\obj\Debug\net8.0\ref\bookstruct.dll

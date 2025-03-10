@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\starpattern\bin\Debug\net8.0\starpattern.exe
+E:\DOTNETCORE\dotnet\starpattern\bin\Debug\net8.0\starpattern.deps.json
+E:\DOTNETCORE\dotnet\starpattern\bin\Debug\net8.0\starpattern.runtimeconfig.json
+E:\DOTNETCORE\dotnet\starpattern\bin\Debug\net8.0\starpattern.dll
+E:\DOTNETCORE\dotnet\starpattern\bin\Debug\net8.0\starpattern.pdb
+E:\DOTNETCORE\dotnet\starpattern\obj\Debug\net8.0\starpattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\starpattern\obj\Debug\net8.0\starpattern.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\starpattern\obj\Debug\net8.0\starpattern.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\starpattern\obj\Debug\net8.0\starpattern.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\starpattern\obj\Debug\net8.0\starpattern.dll
+E:\DOTNETCORE\dotnet\starpattern\obj\Debug\net8.0\refint\starpattern.dll
+E:\DOTNETCORE\dotnet\starpattern\obj\Debug\net8.0\starpattern.pdb
+E:\DOTNETCORE\dotnet\starpattern\obj\Debug\net8.0\starpattern.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\starpattern\obj\Debug\net8.0\ref\starpattern.dll

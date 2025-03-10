@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\norow\bin\Debug\net8.0\norow.exe
+E:\DOTNETCORE\dotnet\norow\bin\Debug\net8.0\norow.deps.json
+E:\DOTNETCORE\dotnet\norow\bin\Debug\net8.0\norow.runtimeconfig.json
+E:\DOTNETCORE\dotnet\norow\bin\Debug\net8.0\norow.dll
+E:\DOTNETCORE\dotnet\norow\bin\Debug\net8.0\norow.pdb
+E:\DOTNETCORE\dotnet\norow\obj\Debug\net8.0\norow.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\norow\obj\Debug\net8.0\norow.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\norow\obj\Debug\net8.0\norow.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\norow\obj\Debug\net8.0\norow.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\norow\obj\Debug\net8.0\norow.dll
+E:\DOTNETCORE\dotnet\norow\obj\Debug\net8.0\refint\norow.dll
+E:\DOTNETCORE\dotnet\norow\obj\Debug\net8.0\norow.pdb
+E:\DOTNETCORE\dotnet\norow\obj\Debug\net8.0\norow.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\norow\obj\Debug\net8.0\ref\norow.dll

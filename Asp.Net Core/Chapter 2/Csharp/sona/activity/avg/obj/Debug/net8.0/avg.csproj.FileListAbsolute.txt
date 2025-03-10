@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\avg\bin\Debug\net8.0\avg.exe
+E:\DOTNETCORE\dotnet\avg\bin\Debug\net8.0\avg.deps.json
+E:\DOTNETCORE\dotnet\avg\bin\Debug\net8.0\avg.runtimeconfig.json
+E:\DOTNETCORE\dotnet\avg\bin\Debug\net8.0\avg.dll
+E:\DOTNETCORE\dotnet\avg\bin\Debug\net8.0\avg.pdb
+E:\DOTNETCORE\dotnet\avg\obj\Debug\net8.0\avg.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\avg\obj\Debug\net8.0\avg.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\avg\obj\Debug\net8.0\avg.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\avg\obj\Debug\net8.0\avg.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\avg\obj\Debug\net8.0\avg.dll
+E:\DOTNETCORE\dotnet\avg\obj\Debug\net8.0\refint\avg.dll
+E:\DOTNETCORE\dotnet\avg\obj\Debug\net8.0\avg.pdb
+E:\DOTNETCORE\dotnet\avg\obj\Debug\net8.0\avg.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\avg\obj\Debug\net8.0\ref\avg.dll

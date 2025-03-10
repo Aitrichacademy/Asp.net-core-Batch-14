@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\vowel\bin\Debug\net8.0\vowel.exe
+E:\DOTNETCORE\dotnet\vowel\bin\Debug\net8.0\vowel.deps.json
+E:\DOTNETCORE\dotnet\vowel\bin\Debug\net8.0\vowel.runtimeconfig.json
+E:\DOTNETCORE\dotnet\vowel\bin\Debug\net8.0\vowel.dll
+E:\DOTNETCORE\dotnet\vowel\bin\Debug\net8.0\vowel.pdb
+E:\DOTNETCORE\dotnet\vowel\obj\Debug\net8.0\vowel.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\vowel\obj\Debug\net8.0\vowel.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\vowel\obj\Debug\net8.0\vowel.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\vowel\obj\Debug\net8.0\vowel.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\vowel\obj\Debug\net8.0\vowel.dll
+E:\DOTNETCORE\dotnet\vowel\obj\Debug\net8.0\refint\vowel.dll
+E:\DOTNETCORE\dotnet\vowel\obj\Debug\net8.0\vowel.pdb
+E:\DOTNETCORE\dotnet\vowel\obj\Debug\net8.0\vowel.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\vowel\obj\Debug\net8.0\ref\vowel.dll

@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\structStudent\bin\Debug\net8.0\structStudent.exe
+E:\DOTNETCORE\dotnet\structStudent\bin\Debug\net8.0\structStudent.deps.json
+E:\DOTNETCORE\dotnet\structStudent\bin\Debug\net8.0\structStudent.runtimeconfig.json
+E:\DOTNETCORE\dotnet\structStudent\bin\Debug\net8.0\structStudent.dll
+E:\DOTNETCORE\dotnet\structStudent\bin\Debug\net8.0\structStudent.pdb
+E:\DOTNETCORE\dotnet\structStudent\obj\Debug\net8.0\structStudent.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\structStudent\obj\Debug\net8.0\structStudent.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\structStudent\obj\Debug\net8.0\structStudent.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\structStudent\obj\Debug\net8.0\structStudent.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\structStudent\obj\Debug\net8.0\structStudent.dll
+E:\DOTNETCORE\dotnet\structStudent\obj\Debug\net8.0\refint\structStudent.dll
+E:\DOTNETCORE\dotnet\structStudent\obj\Debug\net8.0\structStudent.pdb
+E:\DOTNETCORE\dotnet\structStudent\obj\Debug\net8.0\structStudent.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\structStudent\obj\Debug\net8.0\ref\structStudent.dll

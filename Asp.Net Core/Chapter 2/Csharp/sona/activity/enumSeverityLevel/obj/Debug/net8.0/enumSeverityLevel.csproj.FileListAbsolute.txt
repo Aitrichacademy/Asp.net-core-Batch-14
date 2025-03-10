@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\enumSeverityLevel\bin\Debug\net8.0\enumSeverityLevel.exe
+E:\DOTNETCORE\dotnet\enumSeverityLevel\bin\Debug\net8.0\enumSeverityLevel.deps.json
+E:\DOTNETCORE\dotnet\enumSeverityLevel\bin\Debug\net8.0\enumSeverityLevel.runtimeconfig.json
+E:\DOTNETCORE\dotnet\enumSeverityLevel\bin\Debug\net8.0\enumSeverityLevel.dll
+E:\DOTNETCORE\dotnet\enumSeverityLevel\bin\Debug\net8.0\enumSeverityLevel.pdb
+E:\DOTNETCORE\dotnet\enumSeverityLevel\obj\Debug\net8.0\enumSeverityLevel.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\enumSeverityLevel\obj\Debug\net8.0\enumSeverityLevel.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\enumSeverityLevel\obj\Debug\net8.0\enumSeverityLevel.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\enumSeverityLevel\obj\Debug\net8.0\enumSeverityLevel.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\enumSeverityLevel\obj\Debug\net8.0\enumSeverityLevel.dll
+E:\DOTNETCORE\dotnet\enumSeverityLevel\obj\Debug\net8.0\refint\enumSeverityLevel.dll
+E:\DOTNETCORE\dotnet\enumSeverityLevel\obj\Debug\net8.0\enumSeverityLevel.pdb
+E:\DOTNETCORE\dotnet\enumSeverityLevel\obj\Debug\net8.0\enumSeverityLevel.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\enumSeverityLevel\obj\Debug\net8.0\ref\enumSeverityLevel.dll

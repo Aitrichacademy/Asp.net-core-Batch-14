@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\bin\Debug\net8.0\adminProfileWCsharp.exe
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\bin\Debug\net8.0\adminProfileWCsharp.deps.json
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\bin\Debug\net8.0\adminProfileWCsharp.runtimeconfig.json
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\bin\Debug\net8.0\adminProfileWCsharp.dll
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\bin\Debug\net8.0\adminProfileWCsharp.pdb
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\obj\Debug\net8.0\adminProfileWCsharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\obj\Debug\net8.0\adminProfileWCsharp.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\obj\Debug\net8.0\adminProfileWCsharp.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\obj\Debug\net8.0\adminProfileWCsharp.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\obj\Debug\net8.0\adminProfileWCsharp.dll
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\obj\Debug\net8.0\refint\adminProfileWCsharp.dll
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\obj\Debug\net8.0\adminProfileWCsharp.pdb
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\obj\Debug\net8.0\adminProfileWCsharp.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\adminProfileWCsharp\obj\Debug\net8.0\ref\adminProfileWCsharp.dll

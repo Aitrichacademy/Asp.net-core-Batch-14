@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\factorial\bin\Debug\net8.0\factorial.exe
+E:\DOTNETCORE\dotnet\factorial\bin\Debug\net8.0\factorial.deps.json
+E:\DOTNETCORE\dotnet\factorial\bin\Debug\net8.0\factorial.runtimeconfig.json
+E:\DOTNETCORE\dotnet\factorial\bin\Debug\net8.0\factorial.dll
+E:\DOTNETCORE\dotnet\factorial\bin\Debug\net8.0\factorial.pdb
+E:\DOTNETCORE\dotnet\factorial\obj\Debug\net8.0\factorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\factorial\obj\Debug\net8.0\factorial.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\factorial\obj\Debug\net8.0\factorial.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\factorial\obj\Debug\net8.0\factorial.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\factorial\obj\Debug\net8.0\factorial.dll
+E:\DOTNETCORE\dotnet\factorial\obj\Debug\net8.0\refint\factorial.dll
+E:\DOTNETCORE\dotnet\factorial\obj\Debug\net8.0\factorial.pdb
+E:\DOTNETCORE\dotnet\factorial\obj\Debug\net8.0\factorial.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\factorial\obj\Debug\net8.0\ref\factorial.dll

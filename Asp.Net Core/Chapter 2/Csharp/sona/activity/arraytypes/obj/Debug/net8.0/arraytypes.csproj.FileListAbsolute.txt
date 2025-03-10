@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\arraytypes\bin\Debug\net8.0\arraytypes.exe
+E:\DOTNETCORE\dotnet\arraytypes\bin\Debug\net8.0\arraytypes.deps.json
+E:\DOTNETCORE\dotnet\arraytypes\bin\Debug\net8.0\arraytypes.runtimeconfig.json
+E:\DOTNETCORE\dotnet\arraytypes\bin\Debug\net8.0\arraytypes.dll
+E:\DOTNETCORE\dotnet\arraytypes\bin\Debug\net8.0\arraytypes.pdb
+E:\DOTNETCORE\dotnet\arraytypes\obj\Debug\net8.0\arraytypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\arraytypes\obj\Debug\net8.0\arraytypes.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\arraytypes\obj\Debug\net8.0\arraytypes.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\arraytypes\obj\Debug\net8.0\arraytypes.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\arraytypes\obj\Debug\net8.0\arraytypes.dll
+E:\DOTNETCORE\dotnet\arraytypes\obj\Debug\net8.0\refint\arraytypes.dll
+E:\DOTNETCORE\dotnet\arraytypes\obj\Debug\net8.0\arraytypes.pdb
+E:\DOTNETCORE\dotnet\arraytypes\obj\Debug\net8.0\arraytypes.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\arraytypes\obj\Debug\net8.0\ref\arraytypes.dll

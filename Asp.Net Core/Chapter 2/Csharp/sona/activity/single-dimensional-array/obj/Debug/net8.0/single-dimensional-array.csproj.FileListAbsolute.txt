@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\single-dimensional-array\bin\Debug\net8.0\single-dimensional-array.exe
+E:\DOTNETCORE\dotnet\single-dimensional-array\bin\Debug\net8.0\single-dimensional-array.deps.json
+E:\DOTNETCORE\dotnet\single-dimensional-array\bin\Debug\net8.0\single-dimensional-array.runtimeconfig.json
+E:\DOTNETCORE\dotnet\single-dimensional-array\bin\Debug\net8.0\single-dimensional-array.dll
+E:\DOTNETCORE\dotnet\single-dimensional-array\bin\Debug\net8.0\single-dimensional-array.pdb
+E:\DOTNETCORE\dotnet\single-dimensional-array\obj\Debug\net8.0\single-dimensional-array.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\single-dimensional-array\obj\Debug\net8.0\single-dimensional-array.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\single-dimensional-array\obj\Debug\net8.0\single-dimensional-array.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\single-dimensional-array\obj\Debug\net8.0\single-dimensional-array.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\single-dimensional-array\obj\Debug\net8.0\single-dimensional-array.dll
+E:\DOTNETCORE\dotnet\single-dimensional-array\obj\Debug\net8.0\refint\single-dimensional-array.dll
+E:\DOTNETCORE\dotnet\single-dimensional-array\obj\Debug\net8.0\single-dimensional-array.pdb
+E:\DOTNETCORE\dotnet\single-dimensional-array\obj\Debug\net8.0\single-dimensional-array.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\single-dimensional-array\obj\Debug\net8.0\ref\single-dimensional-array.dll

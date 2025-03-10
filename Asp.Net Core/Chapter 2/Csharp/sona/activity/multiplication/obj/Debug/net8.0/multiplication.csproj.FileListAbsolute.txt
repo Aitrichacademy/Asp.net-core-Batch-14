@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\multiplication\bin\Debug\net8.0\multiplication.exe
+E:\DOTNETCORE\dotnet\multiplication\bin\Debug\net8.0\multiplication.deps.json
+E:\DOTNETCORE\dotnet\multiplication\bin\Debug\net8.0\multiplication.runtimeconfig.json
+E:\DOTNETCORE\dotnet\multiplication\bin\Debug\net8.0\multiplication.dll
+E:\DOTNETCORE\dotnet\multiplication\bin\Debug\net8.0\multiplication.pdb
+E:\DOTNETCORE\dotnet\multiplication\obj\Debug\net8.0\multiplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\multiplication\obj\Debug\net8.0\multiplication.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\multiplication\obj\Debug\net8.0\multiplication.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\multiplication\obj\Debug\net8.0\multiplication.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\multiplication\obj\Debug\net8.0\multiplication.dll
+E:\DOTNETCORE\dotnet\multiplication\obj\Debug\net8.0\refint\multiplication.dll
+E:\DOTNETCORE\dotnet\multiplication\obj\Debug\net8.0\multiplication.pdb
+E:\DOTNETCORE\dotnet\multiplication\obj\Debug\net8.0\multiplication.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\multiplication\obj\Debug\net8.0\ref\multiplication.dll

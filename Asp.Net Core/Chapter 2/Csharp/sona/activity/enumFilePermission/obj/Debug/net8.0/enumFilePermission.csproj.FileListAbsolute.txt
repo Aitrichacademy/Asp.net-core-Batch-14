@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\enumFilePermission\bin\Debug\net8.0\enumFilePermission.exe
+E:\DOTNETCORE\dotnet\enumFilePermission\bin\Debug\net8.0\enumFilePermission.deps.json
+E:\DOTNETCORE\dotnet\enumFilePermission\bin\Debug\net8.0\enumFilePermission.runtimeconfig.json
+E:\DOTNETCORE\dotnet\enumFilePermission\bin\Debug\net8.0\enumFilePermission.dll
+E:\DOTNETCORE\dotnet\enumFilePermission\bin\Debug\net8.0\enumFilePermission.pdb
+E:\DOTNETCORE\dotnet\enumFilePermission\obj\Debug\net8.0\enumFilePermission.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\enumFilePermission\obj\Debug\net8.0\enumFilePermission.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\enumFilePermission\obj\Debug\net8.0\enumFilePermission.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\enumFilePermission\obj\Debug\net8.0\enumFilePermission.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\enumFilePermission\obj\Debug\net8.0\enumFilePermission.dll
+E:\DOTNETCORE\dotnet\enumFilePermission\obj\Debug\net8.0\refint\enumFilePermission.dll
+E:\DOTNETCORE\dotnet\enumFilePermission\obj\Debug\net8.0\enumFilePermission.pdb
+E:\DOTNETCORE\dotnet\enumFilePermission\obj\Debug\net8.0\enumFilePermission.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\enumFilePermission\obj\Debug\net8.0\ref\enumFilePermission.dll

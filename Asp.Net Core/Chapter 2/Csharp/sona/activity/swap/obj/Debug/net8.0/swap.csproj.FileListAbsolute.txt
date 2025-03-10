@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\swap\bin\Debug\net8.0\swap.exe
+E:\DOTNETCORE\dotnet\swap\bin\Debug\net8.0\swap.deps.json
+E:\DOTNETCORE\dotnet\swap\bin\Debug\net8.0\swap.runtimeconfig.json
+E:\DOTNETCORE\dotnet\swap\bin\Debug\net8.0\swap.dll
+E:\DOTNETCORE\dotnet\swap\bin\Debug\net8.0\swap.pdb
+E:\DOTNETCORE\dotnet\swap\obj\Debug\net8.0\swap.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\swap\obj\Debug\net8.0\swap.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\swap\obj\Debug\net8.0\swap.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\swap\obj\Debug\net8.0\swap.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\swap\obj\Debug\net8.0\swap.dll
+E:\DOTNETCORE\dotnet\swap\obj\Debug\net8.0\refint\swap.dll
+E:\DOTNETCORE\dotnet\swap\obj\Debug\net8.0\swap.pdb
+E:\DOTNETCORE\dotnet\swap\obj\Debug\net8.0\swap.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\swap\obj\Debug\net8.0\ref\swap.dll

@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\AIFeelingDetector\bin\Debug\net8.0\AIFeelingDetector.exe
+E:\DOTNETCORE\dotnet\AIFeelingDetector\bin\Debug\net8.0\AIFeelingDetector.deps.json
+E:\DOTNETCORE\dotnet\AIFeelingDetector\bin\Debug\net8.0\AIFeelingDetector.runtimeconfig.json
+E:\DOTNETCORE\dotnet\AIFeelingDetector\bin\Debug\net8.0\AIFeelingDetector.dll
+E:\DOTNETCORE\dotnet\AIFeelingDetector\bin\Debug\net8.0\AIFeelingDetector.pdb
+E:\DOTNETCORE\dotnet\AIFeelingDetector\obj\Debug\net8.0\AIFeelingDetector.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\AIFeelingDetector\obj\Debug\net8.0\AIFeelingDetector.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\AIFeelingDetector\obj\Debug\net8.0\AIFeelingDetector.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\AIFeelingDetector\obj\Debug\net8.0\AIFeelingDetector.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\AIFeelingDetector\obj\Debug\net8.0\AIFeelingDetector.dll
+E:\DOTNETCORE\dotnet\AIFeelingDetector\obj\Debug\net8.0\refint\AIFeelingDetector.dll
+E:\DOTNETCORE\dotnet\AIFeelingDetector\obj\Debug\net8.0\AIFeelingDetector.pdb
+E:\DOTNETCORE\dotnet\AIFeelingDetector\obj\Debug\net8.0\AIFeelingDetector.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\AIFeelingDetector\obj\Debug\net8.0\ref\AIFeelingDetector.dll

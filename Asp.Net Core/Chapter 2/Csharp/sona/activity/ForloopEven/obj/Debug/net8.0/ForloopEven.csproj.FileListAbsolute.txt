@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\ForloopEven\bin\Debug\net8.0\ForloopEven.exe
+E:\DOTNETCORE\dotnet\ForloopEven\bin\Debug\net8.0\ForloopEven.deps.json
+E:\DOTNETCORE\dotnet\ForloopEven\bin\Debug\net8.0\ForloopEven.runtimeconfig.json
+E:\DOTNETCORE\dotnet\ForloopEven\bin\Debug\net8.0\ForloopEven.dll
+E:\DOTNETCORE\dotnet\ForloopEven\bin\Debug\net8.0\ForloopEven.pdb
+E:\DOTNETCORE\dotnet\ForloopEven\obj\Debug\net8.0\ForloopEven.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\ForloopEven\obj\Debug\net8.0\ForloopEven.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\ForloopEven\obj\Debug\net8.0\ForloopEven.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\ForloopEven\obj\Debug\net8.0\ForloopEven.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\ForloopEven\obj\Debug\net8.0\ForloopEven.dll
+E:\DOTNETCORE\dotnet\ForloopEven\obj\Debug\net8.0\refint\ForloopEven.dll
+E:\DOTNETCORE\dotnet\ForloopEven\obj\Debug\net8.0\ForloopEven.pdb
+E:\DOTNETCORE\dotnet\ForloopEven\obj\Debug\net8.0\ForloopEven.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\ForloopEven\obj\Debug\net8.0\ref\ForloopEven.dll

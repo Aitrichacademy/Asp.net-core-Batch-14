@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\bin\Debug\net8.0\sumofdigitdowhile.exe
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\bin\Debug\net8.0\sumofdigitdowhile.deps.json
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\bin\Debug\net8.0\sumofdigitdowhile.runtimeconfig.json
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\bin\Debug\net8.0\sumofdigitdowhile.dll
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\bin\Debug\net8.0\sumofdigitdowhile.pdb
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\obj\Debug\net8.0\sumofdigitdowhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\obj\Debug\net8.0\sumofdigitdowhile.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\obj\Debug\net8.0\sumofdigitdowhile.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\obj\Debug\net8.0\sumofdigitdowhile.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\obj\Debug\net8.0\sumofdigitdowhile.dll
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\obj\Debug\net8.0\refint\sumofdigitdowhile.dll
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\obj\Debug\net8.0\sumofdigitdowhile.pdb
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\obj\Debug\net8.0\sumofdigitdowhile.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\sumofdigitdowhile\obj\Debug\net8.0\ref\sumofdigitdowhile.dll

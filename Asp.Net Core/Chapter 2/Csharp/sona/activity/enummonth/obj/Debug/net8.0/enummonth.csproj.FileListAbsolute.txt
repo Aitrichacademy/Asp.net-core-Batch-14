@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\enummonth\bin\Debug\net8.0\enummonth.exe
+E:\DOTNETCORE\dotnet\enummonth\bin\Debug\net8.0\enummonth.deps.json
+E:\DOTNETCORE\dotnet\enummonth\bin\Debug\net8.0\enummonth.runtimeconfig.json
+E:\DOTNETCORE\dotnet\enummonth\bin\Debug\net8.0\enummonth.dll
+E:\DOTNETCORE\dotnet\enummonth\bin\Debug\net8.0\enummonth.pdb
+E:\DOTNETCORE\dotnet\enummonth\obj\Debug\net8.0\enummonth.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\enummonth\obj\Debug\net8.0\enummonth.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\enummonth\obj\Debug\net8.0\enummonth.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\enummonth\obj\Debug\net8.0\enummonth.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\enummonth\obj\Debug\net8.0\enummonth.dll
+E:\DOTNETCORE\dotnet\enummonth\obj\Debug\net8.0\refint\enummonth.dll
+E:\DOTNETCORE\dotnet\enummonth\obj\Debug\net8.0\enummonth.pdb
+E:\DOTNETCORE\dotnet\enummonth\obj\Debug\net8.0\enummonth.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\enummonth\obj\Debug\net8.0\ref\enummonth.dll

@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\largest2\bin\Debug\net8.0\largest2.exe
+E:\DOTNETCORE\dotnet\largest2\bin\Debug\net8.0\largest2.deps.json
+E:\DOTNETCORE\dotnet\largest2\bin\Debug\net8.0\largest2.runtimeconfig.json
+E:\DOTNETCORE\dotnet\largest2\bin\Debug\net8.0\largest2.dll
+E:\DOTNETCORE\dotnet\largest2\bin\Debug\net8.0\largest2.pdb
+E:\DOTNETCORE\dotnet\largest2\obj\Debug\net8.0\largest2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\largest2\obj\Debug\net8.0\largest2.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\largest2\obj\Debug\net8.0\largest2.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\largest2\obj\Debug\net8.0\largest2.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\largest2\obj\Debug\net8.0\largest2.dll
+E:\DOTNETCORE\dotnet\largest2\obj\Debug\net8.0\refint\largest2.dll
+E:\DOTNETCORE\dotnet\largest2\obj\Debug\net8.0\largest2.pdb
+E:\DOTNETCORE\dotnet\largest2\obj\Debug\net8.0\largest2.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\largest2\obj\Debug\net8.0\ref\largest2.dll

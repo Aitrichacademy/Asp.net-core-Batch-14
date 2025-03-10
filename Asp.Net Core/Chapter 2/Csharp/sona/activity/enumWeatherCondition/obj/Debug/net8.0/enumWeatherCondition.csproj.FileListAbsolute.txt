@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\enumWeatherCondition\bin\Debug\net8.0\enumWeatherCondition.exe
+E:\DOTNETCORE\dotnet\enumWeatherCondition\bin\Debug\net8.0\enumWeatherCondition.deps.json
+E:\DOTNETCORE\dotnet\enumWeatherCondition\bin\Debug\net8.0\enumWeatherCondition.runtimeconfig.json
+E:\DOTNETCORE\dotnet\enumWeatherCondition\bin\Debug\net8.0\enumWeatherCondition.dll
+E:\DOTNETCORE\dotnet\enumWeatherCondition\bin\Debug\net8.0\enumWeatherCondition.pdb
+E:\DOTNETCORE\dotnet\enumWeatherCondition\obj\Debug\net8.0\enumWeatherCondition.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\enumWeatherCondition\obj\Debug\net8.0\enumWeatherCondition.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\enumWeatherCondition\obj\Debug\net8.0\enumWeatherCondition.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\enumWeatherCondition\obj\Debug\net8.0\enumWeatherCondition.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\enumWeatherCondition\obj\Debug\net8.0\enumWeatherCondition.dll
+E:\DOTNETCORE\dotnet\enumWeatherCondition\obj\Debug\net8.0\refint\enumWeatherCondition.dll
+E:\DOTNETCORE\dotnet\enumWeatherCondition\obj\Debug\net8.0\enumWeatherCondition.pdb
+E:\DOTNETCORE\dotnet\enumWeatherCondition\obj\Debug\net8.0\enumWeatherCondition.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\enumWeatherCondition\obj\Debug\net8.0\ref\enumWeatherCondition.dll

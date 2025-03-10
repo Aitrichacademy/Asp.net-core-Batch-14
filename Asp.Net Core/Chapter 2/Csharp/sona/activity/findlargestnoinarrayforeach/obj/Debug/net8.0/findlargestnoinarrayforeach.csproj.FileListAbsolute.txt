@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\bin\Debug\net8.0\findlargestnoinarrayforeach.exe
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\bin\Debug\net8.0\findlargestnoinarrayforeach.deps.json
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\bin\Debug\net8.0\findlargestnoinarrayforeach.runtimeconfig.json
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\bin\Debug\net8.0\findlargestnoinarrayforeach.dll
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\bin\Debug\net8.0\findlargestnoinarrayforeach.pdb
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\obj\Debug\net8.0\findlargestnoinarrayforeach.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\obj\Debug\net8.0\findlargestnoinarrayforeach.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\obj\Debug\net8.0\findlargestnoinarrayforeach.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\obj\Debug\net8.0\findlargestnoinarrayforeach.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\obj\Debug\net8.0\findlargestnoinarrayforeach.dll
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\obj\Debug\net8.0\refint\findlargestnoinarrayforeach.dll
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\obj\Debug\net8.0\findlargestnoinarrayforeach.pdb
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\obj\Debug\net8.0\findlargestnoinarrayforeach.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\findlargestnoinarrayforeach\obj\Debug\net8.0\ref\findlargestnoinarrayforeach.dll

@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\enumPaymentMethod\bin\Debug\net8.0\enumPaymentMethod.exe
+E:\DOTNETCORE\dotnet\enumPaymentMethod\bin\Debug\net8.0\enumPaymentMethod.deps.json
+E:\DOTNETCORE\dotnet\enumPaymentMethod\bin\Debug\net8.0\enumPaymentMethod.runtimeconfig.json
+E:\DOTNETCORE\dotnet\enumPaymentMethod\bin\Debug\net8.0\enumPaymentMethod.dll
+E:\DOTNETCORE\dotnet\enumPaymentMethod\bin\Debug\net8.0\enumPaymentMethod.pdb
+E:\DOTNETCORE\dotnet\enumPaymentMethod\obj\Debug\net8.0\enumPaymentMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\enumPaymentMethod\obj\Debug\net8.0\enumPaymentMethod.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\enumPaymentMethod\obj\Debug\net8.0\enumPaymentMethod.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\enumPaymentMethod\obj\Debug\net8.0\enumPaymentMethod.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\enumPaymentMethod\obj\Debug\net8.0\enumPaymentMethod.dll
+E:\DOTNETCORE\dotnet\enumPaymentMethod\obj\Debug\net8.0\refint\enumPaymentMethod.dll
+E:\DOTNETCORE\dotnet\enumPaymentMethod\obj\Debug\net8.0\enumPaymentMethod.pdb
+E:\DOTNETCORE\dotnet\enumPaymentMethod\obj\Debug\net8.0\enumPaymentMethod.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\enumPaymentMethod\obj\Debug\net8.0\ref\enumPaymentMethod.dll

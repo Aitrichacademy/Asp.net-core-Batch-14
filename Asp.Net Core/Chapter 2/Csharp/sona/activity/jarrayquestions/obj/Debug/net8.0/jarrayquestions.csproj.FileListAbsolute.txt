@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\jarrayquestions\bin\Debug\net8.0\jarrayquestions.exe
+E:\DOTNETCORE\dotnet\jarrayquestions\bin\Debug\net8.0\jarrayquestions.deps.json
+E:\DOTNETCORE\dotnet\jarrayquestions\bin\Debug\net8.0\jarrayquestions.runtimeconfig.json
+E:\DOTNETCORE\dotnet\jarrayquestions\bin\Debug\net8.0\jarrayquestions.dll
+E:\DOTNETCORE\dotnet\jarrayquestions\bin\Debug\net8.0\jarrayquestions.pdb
+E:\DOTNETCORE\dotnet\jarrayquestions\obj\Debug\net8.0\jarrayquestions.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\jarrayquestions\obj\Debug\net8.0\jarrayquestions.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\jarrayquestions\obj\Debug\net8.0\jarrayquestions.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\jarrayquestions\obj\Debug\net8.0\jarrayquestions.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\jarrayquestions\obj\Debug\net8.0\jarrayquestions.dll
+E:\DOTNETCORE\dotnet\jarrayquestions\obj\Debug\net8.0\refint\jarrayquestions.dll
+E:\DOTNETCORE\dotnet\jarrayquestions\obj\Debug\net8.0\jarrayquestions.pdb
+E:\DOTNETCORE\dotnet\jarrayquestions\obj\Debug\net8.0\jarrayquestions.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\jarrayquestions\obj\Debug\net8.0\ref\jarrayquestions.dll

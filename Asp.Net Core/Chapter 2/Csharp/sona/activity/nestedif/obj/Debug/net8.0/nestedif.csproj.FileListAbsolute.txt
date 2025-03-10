@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\nestedif\bin\Debug\net8.0\nestedif.exe
+E:\DOTNETCORE\dotnet\nestedif\bin\Debug\net8.0\nestedif.deps.json
+E:\DOTNETCORE\dotnet\nestedif\bin\Debug\net8.0\nestedif.runtimeconfig.json
+E:\DOTNETCORE\dotnet\nestedif\bin\Debug\net8.0\nestedif.dll
+E:\DOTNETCORE\dotnet\nestedif\bin\Debug\net8.0\nestedif.pdb
+E:\DOTNETCORE\dotnet\nestedif\obj\Debug\net8.0\nestedif.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\nestedif\obj\Debug\net8.0\nestedif.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\nestedif\obj\Debug\net8.0\nestedif.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\nestedif\obj\Debug\net8.0\nestedif.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\nestedif\obj\Debug\net8.0\nestedif.dll
+E:\DOTNETCORE\dotnet\nestedif\obj\Debug\net8.0\refint\nestedif.dll
+E:\DOTNETCORE\dotnet\nestedif\obj\Debug\net8.0\nestedif.pdb
+E:\DOTNETCORE\dotnet\nestedif\obj\Debug\net8.0\nestedif.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\nestedif\obj\Debug\net8.0\ref\nestedif.dll

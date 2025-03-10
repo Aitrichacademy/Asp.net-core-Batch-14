@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\vote\bin\Debug\net8.0\vote.exe
+E:\DOTNETCORE\dotnet\vote\bin\Debug\net8.0\vote.deps.json
+E:\DOTNETCORE\dotnet\vote\bin\Debug\net8.0\vote.runtimeconfig.json
+E:\DOTNETCORE\dotnet\vote\bin\Debug\net8.0\vote.dll
+E:\DOTNETCORE\dotnet\vote\bin\Debug\net8.0\vote.pdb
+E:\DOTNETCORE\dotnet\vote\obj\Debug\net8.0\vote.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\vote\obj\Debug\net8.0\vote.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\vote\obj\Debug\net8.0\vote.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\vote\obj\Debug\net8.0\vote.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\vote\obj\Debug\net8.0\vote.dll
+E:\DOTNETCORE\dotnet\vote\obj\Debug\net8.0\refint\vote.dll
+E:\DOTNETCORE\dotnet\vote\obj\Debug\net8.0\vote.pdb
+E:\DOTNETCORE\dotnet\vote\obj\Debug\net8.0\vote.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\vote\obj\Debug\net8.0\ref\vote.dll

@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\CountNumberofDigits\bin\Debug\net8.0\CountNumberofDigits.exe
+E:\DOTNETCORE\dotnet\CountNumberofDigits\bin\Debug\net8.0\CountNumberofDigits.deps.json
+E:\DOTNETCORE\dotnet\CountNumberofDigits\bin\Debug\net8.0\CountNumberofDigits.runtimeconfig.json
+E:\DOTNETCORE\dotnet\CountNumberofDigits\bin\Debug\net8.0\CountNumberofDigits.dll
+E:\DOTNETCORE\dotnet\CountNumberofDigits\bin\Debug\net8.0\CountNumberofDigits.pdb
+E:\DOTNETCORE\dotnet\CountNumberofDigits\obj\Debug\net8.0\CountNumberofDigits.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\CountNumberofDigits\obj\Debug\net8.0\CountNumberofDigits.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\CountNumberofDigits\obj\Debug\net8.0\CountNumberofDigits.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\CountNumberofDigits\obj\Debug\net8.0\CountNumberofDigits.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\CountNumberofDigits\obj\Debug\net8.0\CountNumberofDigits.dll
+E:\DOTNETCORE\dotnet\CountNumberofDigits\obj\Debug\net8.0\refint\CountNumberofDigits.dll
+E:\DOTNETCORE\dotnet\CountNumberofDigits\obj\Debug\net8.0\CountNumberofDigits.pdb
+E:\DOTNETCORE\dotnet\CountNumberofDigits\obj\Debug\net8.0\CountNumberofDigits.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\CountNumberofDigits\obj\Debug\net8.0\ref\CountNumberofDigits.dll

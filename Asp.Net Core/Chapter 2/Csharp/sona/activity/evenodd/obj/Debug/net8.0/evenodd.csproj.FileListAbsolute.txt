@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\evenodd\bin\Debug\net8.0\evenodd.exe
+E:\DOTNETCORE\dotnet\evenodd\bin\Debug\net8.0\evenodd.deps.json
+E:\DOTNETCORE\dotnet\evenodd\bin\Debug\net8.0\evenodd.runtimeconfig.json
+E:\DOTNETCORE\dotnet\evenodd\bin\Debug\net8.0\evenodd.dll
+E:\DOTNETCORE\dotnet\evenodd\bin\Debug\net8.0\evenodd.pdb
+E:\DOTNETCORE\dotnet\evenodd\obj\Debug\net8.0\evenodd.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\evenodd\obj\Debug\net8.0\evenodd.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\evenodd\obj\Debug\net8.0\evenodd.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\evenodd\obj\Debug\net8.0\evenodd.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\evenodd\obj\Debug\net8.0\evenodd.dll
+E:\DOTNETCORE\dotnet\evenodd\obj\Debug\net8.0\refint\evenodd.dll
+E:\DOTNETCORE\dotnet\evenodd\obj\Debug\net8.0\evenodd.pdb
+E:\DOTNETCORE\dotnet\evenodd\obj\Debug\net8.0\evenodd.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\evenodd\obj\Debug\net8.0\ref\evenodd.dll

@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\structRectangle\bin\Debug\net8.0\structRectangle.exe
+E:\DOTNETCORE\dotnet\structRectangle\bin\Debug\net8.0\structRectangle.deps.json
+E:\DOTNETCORE\dotnet\structRectangle\bin\Debug\net8.0\structRectangle.runtimeconfig.json
+E:\DOTNETCORE\dotnet\structRectangle\bin\Debug\net8.0\structRectangle.dll
+E:\DOTNETCORE\dotnet\structRectangle\bin\Debug\net8.0\structRectangle.pdb
+E:\DOTNETCORE\dotnet\structRectangle\obj\Debug\net8.0\structRectangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\structRectangle\obj\Debug\net8.0\structRectangle.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\structRectangle\obj\Debug\net8.0\structRectangle.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\structRectangle\obj\Debug\net8.0\structRectangle.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\structRectangle\obj\Debug\net8.0\structRectangle.dll
+E:\DOTNETCORE\dotnet\structRectangle\obj\Debug\net8.0\refint\structRectangle.dll
+E:\DOTNETCORE\dotnet\structRectangle\obj\Debug\net8.0\structRectangle.pdb
+E:\DOTNETCORE\dotnet\structRectangle\obj\Debug\net8.0\structRectangle.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\structRectangle\obj\Debug\net8.0\ref\structRectangle.dll

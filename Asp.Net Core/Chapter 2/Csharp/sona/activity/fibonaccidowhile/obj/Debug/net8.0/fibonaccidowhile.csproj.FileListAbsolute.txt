@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\fibonaccidowhile\bin\Debug\net8.0\fibonaccidowhile.exe
+E:\DOTNETCORE\dotnet\fibonaccidowhile\bin\Debug\net8.0\fibonaccidowhile.deps.json
+E:\DOTNETCORE\dotnet\fibonaccidowhile\bin\Debug\net8.0\fibonaccidowhile.runtimeconfig.json
+E:\DOTNETCORE\dotnet\fibonaccidowhile\bin\Debug\net8.0\fibonaccidowhile.dll
+E:\DOTNETCORE\dotnet\fibonaccidowhile\bin\Debug\net8.0\fibonaccidowhile.pdb
+E:\DOTNETCORE\dotnet\fibonaccidowhile\obj\Debug\net8.0\fibonaccidowhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\fibonaccidowhile\obj\Debug\net8.0\fibonaccidowhile.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\fibonaccidowhile\obj\Debug\net8.0\fibonaccidowhile.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\fibonaccidowhile\obj\Debug\net8.0\fibonaccidowhile.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\fibonaccidowhile\obj\Debug\net8.0\fibonaccidowhile.dll
+E:\DOTNETCORE\dotnet\fibonaccidowhile\obj\Debug\net8.0\refint\fibonaccidowhile.dll
+E:\DOTNETCORE\dotnet\fibonaccidowhile\obj\Debug\net8.0\fibonaccidowhile.pdb
+E:\DOTNETCORE\dotnet\fibonaccidowhile\obj\Debug\net8.0\fibonaccidowhile.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\fibonaccidowhile\obj\Debug\net8.0\ref\fibonaccidowhile.dll

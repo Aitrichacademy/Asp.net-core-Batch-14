@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\PuzzleDoor\bin\Debug\net8.0\PuzzleDoor.exe
+E:\DOTNETCORE\dotnet\PuzzleDoor\bin\Debug\net8.0\PuzzleDoor.deps.json
+E:\DOTNETCORE\dotnet\PuzzleDoor\bin\Debug\net8.0\PuzzleDoor.runtimeconfig.json
+E:\DOTNETCORE\dotnet\PuzzleDoor\bin\Debug\net8.0\PuzzleDoor.dll
+E:\DOTNETCORE\dotnet\PuzzleDoor\bin\Debug\net8.0\PuzzleDoor.pdb
+E:\DOTNETCORE\dotnet\PuzzleDoor\obj\Debug\net8.0\PuzzleDoor.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\PuzzleDoor\obj\Debug\net8.0\PuzzleDoor.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\PuzzleDoor\obj\Debug\net8.0\PuzzleDoor.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\PuzzleDoor\obj\Debug\net8.0\PuzzleDoor.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\PuzzleDoor\obj\Debug\net8.0\PuzzleDoor.dll
+E:\DOTNETCORE\dotnet\PuzzleDoor\obj\Debug\net8.0\refint\PuzzleDoor.dll
+E:\DOTNETCORE\dotnet\PuzzleDoor\obj\Debug\net8.0\PuzzleDoor.pdb
+E:\DOTNETCORE\dotnet\PuzzleDoor\obj\Debug\net8.0\PuzzleDoor.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\PuzzleDoor\obj\Debug\net8.0\ref\PuzzleDoor.dll

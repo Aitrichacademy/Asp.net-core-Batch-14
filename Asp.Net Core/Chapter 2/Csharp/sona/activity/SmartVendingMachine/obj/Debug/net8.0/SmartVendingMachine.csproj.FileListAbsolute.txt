@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\SmartVendingMachine\obj\Debug\net8.0\SmartVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\SmartVendingMachine\obj\Debug\net8.0\SmartVendingMachine.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\SmartVendingMachine\obj\Debug\net8.0\SmartVendingMachine.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\SmartVendingMachine\obj\Debug\net8.0\SmartVendingMachine.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\SmartVendingMachine\bin\Debug\net8.0\SmartVendingMachine.exe
+E:\DOTNETCORE\dotnet\SmartVendingMachine\bin\Debug\net8.0\SmartVendingMachine.deps.json
+E:\DOTNETCORE\dotnet\SmartVendingMachine\bin\Debug\net8.0\SmartVendingMachine.runtimeconfig.json
+E:\DOTNETCORE\dotnet\SmartVendingMachine\bin\Debug\net8.0\SmartVendingMachine.dll
+E:\DOTNETCORE\dotnet\SmartVendingMachine\bin\Debug\net8.0\SmartVendingMachine.pdb
+E:\DOTNETCORE\dotnet\SmartVendingMachine\obj\Debug\net8.0\SmartVendingMachine.dll
+E:\DOTNETCORE\dotnet\SmartVendingMachine\obj\Debug\net8.0\refint\SmartVendingMachine.dll
+E:\DOTNETCORE\dotnet\SmartVendingMachine\obj\Debug\net8.0\SmartVendingMachine.pdb
+E:\DOTNETCORE\dotnet\SmartVendingMachine\obj\Debug\net8.0\SmartVendingMachine.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\SmartVendingMachine\obj\Debug\net8.0\ref\SmartVendingMachine.dll

@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\enumDepartment\bin\Debug\net8.0\enumDepartment.exe
+E:\DOTNETCORE\dotnet\enumDepartment\bin\Debug\net8.0\enumDepartment.deps.json
+E:\DOTNETCORE\dotnet\enumDepartment\bin\Debug\net8.0\enumDepartment.runtimeconfig.json
+E:\DOTNETCORE\dotnet\enumDepartment\bin\Debug\net8.0\enumDepartment.dll
+E:\DOTNETCORE\dotnet\enumDepartment\bin\Debug\net8.0\enumDepartment.pdb
+E:\DOTNETCORE\dotnet\enumDepartment\obj\Debug\net8.0\enumDepartment.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\enumDepartment\obj\Debug\net8.0\enumDepartment.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\enumDepartment\obj\Debug\net8.0\enumDepartment.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\enumDepartment\obj\Debug\net8.0\enumDepartment.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\enumDepartment\obj\Debug\net8.0\enumDepartment.dll
+E:\DOTNETCORE\dotnet\enumDepartment\obj\Debug\net8.0\refint\enumDepartment.dll
+E:\DOTNETCORE\dotnet\enumDepartment\obj\Debug\net8.0\enumDepartment.pdb
+E:\DOTNETCORE\dotnet\enumDepartment\obj\Debug\net8.0\enumDepartment.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\enumDepartment\obj\Debug\net8.0\ref\enumDepartment.dll

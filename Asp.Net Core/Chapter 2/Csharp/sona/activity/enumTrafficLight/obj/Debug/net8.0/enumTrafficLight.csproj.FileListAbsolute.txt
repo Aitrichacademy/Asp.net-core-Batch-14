@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\enumTrafficLight\bin\Debug\net8.0\enumTrafficLight.exe
+E:\DOTNETCORE\dotnet\enumTrafficLight\bin\Debug\net8.0\enumTrafficLight.deps.json
+E:\DOTNETCORE\dotnet\enumTrafficLight\bin\Debug\net8.0\enumTrafficLight.runtimeconfig.json
+E:\DOTNETCORE\dotnet\enumTrafficLight\bin\Debug\net8.0\enumTrafficLight.dll
+E:\DOTNETCORE\dotnet\enumTrafficLight\bin\Debug\net8.0\enumTrafficLight.pdb
+E:\DOTNETCORE\dotnet\enumTrafficLight\obj\Debug\net8.0\enumTrafficLight.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\enumTrafficLight\obj\Debug\net8.0\enumTrafficLight.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\enumTrafficLight\obj\Debug\net8.0\enumTrafficLight.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\enumTrafficLight\obj\Debug\net8.0\enumTrafficLight.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\enumTrafficLight\obj\Debug\net8.0\enumTrafficLight.dll
+E:\DOTNETCORE\dotnet\enumTrafficLight\obj\Debug\net8.0\refint\enumTrafficLight.dll
+E:\DOTNETCORE\dotnet\enumTrafficLight\obj\Debug\net8.0\enumTrafficLight.pdb
+E:\DOTNETCORE\dotnet\enumTrafficLight\obj\Debug\net8.0\enumTrafficLight.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\enumTrafficLight\obj\Debug\net8.0\ref\enumTrafficLight.dll

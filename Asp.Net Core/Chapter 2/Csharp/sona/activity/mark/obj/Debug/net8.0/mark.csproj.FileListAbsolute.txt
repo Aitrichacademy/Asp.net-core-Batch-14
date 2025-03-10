@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\mark\bin\Debug\net8.0\mark.exe
+E:\DOTNETCORE\dotnet\mark\bin\Debug\net8.0\mark.deps.json
+E:\DOTNETCORE\dotnet\mark\bin\Debug\net8.0\mark.runtimeconfig.json
+E:\DOTNETCORE\dotnet\mark\bin\Debug\net8.0\mark.dll
+E:\DOTNETCORE\dotnet\mark\bin\Debug\net8.0\mark.pdb
+E:\DOTNETCORE\dotnet\mark\obj\Debug\net8.0\mark.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\mark\obj\Debug\net8.0\mark.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\mark\obj\Debug\net8.0\mark.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\mark\obj\Debug\net8.0\mark.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\mark\obj\Debug\net8.0\mark.dll
+E:\DOTNETCORE\dotnet\mark\obj\Debug\net8.0\refint\mark.dll
+E:\DOTNETCORE\dotnet\mark\obj\Debug\net8.0\mark.pdb
+E:\DOTNETCORE\dotnet\mark\obj\Debug\net8.0\mark.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\mark\obj\Debug\net8.0\ref\mark.dll

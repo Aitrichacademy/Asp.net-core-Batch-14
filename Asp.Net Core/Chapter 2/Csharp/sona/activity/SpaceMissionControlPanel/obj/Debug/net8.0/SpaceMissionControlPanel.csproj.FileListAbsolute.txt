@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\bin\Debug\net8.0\SpaceMissionControlPanel.exe
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\bin\Debug\net8.0\SpaceMissionControlPanel.deps.json
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\bin\Debug\net8.0\SpaceMissionControlPanel.runtimeconfig.json
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\bin\Debug\net8.0\SpaceMissionControlPanel.dll
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\bin\Debug\net8.0\SpaceMissionControlPanel.pdb
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\obj\Debug\net8.0\SpaceMissionControlPanel.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\obj\Debug\net8.0\SpaceMissionControlPanel.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\obj\Debug\net8.0\SpaceMissionControlPanel.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\obj\Debug\net8.0\SpaceMissionControlPanel.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\obj\Debug\net8.0\SpaceMissionControlPanel.dll
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\obj\Debug\net8.0\refint\SpaceMissionControlPanel.dll
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\obj\Debug\net8.0\SpaceMissionControlPanel.pdb
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\obj\Debug\net8.0\SpaceMissionControlPanel.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\SpaceMissionControlPanel\obj\Debug\net8.0\ref\SpaceMissionControlPanel.dll

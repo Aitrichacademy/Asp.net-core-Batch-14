@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\posnegzero\bin\Debug\net8.0\posnegzero.exe
+E:\DOTNETCORE\dotnet\posnegzero\bin\Debug\net8.0\posnegzero.deps.json
+E:\DOTNETCORE\dotnet\posnegzero\bin\Debug\net8.0\posnegzero.runtimeconfig.json
+E:\DOTNETCORE\dotnet\posnegzero\bin\Debug\net8.0\posnegzero.dll
+E:\DOTNETCORE\dotnet\posnegzero\bin\Debug\net8.0\posnegzero.pdb
+E:\DOTNETCORE\dotnet\posnegzero\obj\Debug\net8.0\posnegzero.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\posnegzero\obj\Debug\net8.0\posnegzero.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\posnegzero\obj\Debug\net8.0\posnegzero.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\posnegzero\obj\Debug\net8.0\posnegzero.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\posnegzero\obj\Debug\net8.0\posnegzero.dll
+E:\DOTNETCORE\dotnet\posnegzero\obj\Debug\net8.0\refint\posnegzero.dll
+E:\DOTNETCORE\dotnet\posnegzero\obj\Debug\net8.0\posnegzero.pdb
+E:\DOTNETCORE\dotnet\posnegzero\obj\Debug\net8.0\posnegzero.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\posnegzero\obj\Debug\net8.0\ref\posnegzero.dll

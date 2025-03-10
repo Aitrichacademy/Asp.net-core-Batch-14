@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\nextedstruct\bin\Debug\net8.0\nextedstruct.exe
+E:\DOTNETCORE\dotnet\nextedstruct\bin\Debug\net8.0\nextedstruct.deps.json
+E:\DOTNETCORE\dotnet\nextedstruct\bin\Debug\net8.0\nextedstruct.runtimeconfig.json
+E:\DOTNETCORE\dotnet\nextedstruct\bin\Debug\net8.0\nextedstruct.dll
+E:\DOTNETCORE\dotnet\nextedstruct\bin\Debug\net8.0\nextedstruct.pdb
+E:\DOTNETCORE\dotnet\nextedstruct\obj\Debug\net8.0\nextedstruct.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\nextedstruct\obj\Debug\net8.0\nextedstruct.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\nextedstruct\obj\Debug\net8.0\nextedstruct.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\nextedstruct\obj\Debug\net8.0\nextedstruct.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\nextedstruct\obj\Debug\net8.0\nextedstruct.dll
+E:\DOTNETCORE\dotnet\nextedstruct\obj\Debug\net8.0\refint\nextedstruct.dll
+E:\DOTNETCORE\dotnet\nextedstruct\obj\Debug\net8.0\nextedstruct.pdb
+E:\DOTNETCORE\dotnet\nextedstruct\obj\Debug\net8.0\nextedstruct.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\nextedstruct\obj\Debug\net8.0\ref\nextedstruct.dll

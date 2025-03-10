@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\JobseekerECsharp\bin\Debug\net8.0\JobseekerECsharp.exe
+E:\DOTNETCORE\dotnet\JobseekerECsharp\bin\Debug\net8.0\JobseekerECsharp.deps.json
+E:\DOTNETCORE\dotnet\JobseekerECsharp\bin\Debug\net8.0\JobseekerECsharp.runtimeconfig.json
+E:\DOTNETCORE\dotnet\JobseekerECsharp\bin\Debug\net8.0\JobseekerECsharp.dll
+E:\DOTNETCORE\dotnet\JobseekerECsharp\bin\Debug\net8.0\JobseekerECsharp.pdb
+E:\DOTNETCORE\dotnet\JobseekerECsharp\obj\Debug\net8.0\JobseekerECsharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\JobseekerECsharp\obj\Debug\net8.0\JobseekerECsharp.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\JobseekerECsharp\obj\Debug\net8.0\JobseekerECsharp.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\JobseekerECsharp\obj\Debug\net8.0\JobseekerECsharp.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\JobseekerECsharp\obj\Debug\net8.0\JobseekerECsharp.dll
+E:\DOTNETCORE\dotnet\JobseekerECsharp\obj\Debug\net8.0\refint\JobseekerECsharp.dll
+E:\DOTNETCORE\dotnet\JobseekerECsharp\obj\Debug\net8.0\JobseekerECsharp.pdb
+E:\DOTNETCORE\dotnet\JobseekerECsharp\obj\Debug\net8.0\JobseekerECsharp.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\JobseekerECsharp\obj\Debug\net8.0\ref\JobseekerECsharp.dll

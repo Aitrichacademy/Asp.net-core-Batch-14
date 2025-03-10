@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\bin\Debug\net8.0\SumofArrayElementsForeach.exe
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\bin\Debug\net8.0\SumofArrayElementsForeach.deps.json
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\bin\Debug\net8.0\SumofArrayElementsForeach.runtimeconfig.json
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\bin\Debug\net8.0\SumofArrayElementsForeach.dll
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\bin\Debug\net8.0\SumofArrayElementsForeach.pdb
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\obj\Debug\net8.0\SumofArrayElementsForeach.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\obj\Debug\net8.0\SumofArrayElementsForeach.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\obj\Debug\net8.0\SumofArrayElementsForeach.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\obj\Debug\net8.0\SumofArrayElementsForeach.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\obj\Debug\net8.0\SumofArrayElementsForeach.dll
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\obj\Debug\net8.0\refint\SumofArrayElementsForeach.dll
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\obj\Debug\net8.0\SumofArrayElementsForeach.pdb
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\obj\Debug\net8.0\SumofArrayElementsForeach.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\SumofArrayElementsForeach\obj\Debug\net8.0\ref\SumofArrayElementsForeach.dll

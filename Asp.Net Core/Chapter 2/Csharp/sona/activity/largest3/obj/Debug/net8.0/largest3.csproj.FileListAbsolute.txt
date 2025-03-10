@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\largest3\bin\Debug\net8.0\largest3.exe
+E:\DOTNETCORE\dotnet\largest3\bin\Debug\net8.0\largest3.deps.json
+E:\DOTNETCORE\dotnet\largest3\bin\Debug\net8.0\largest3.runtimeconfig.json
+E:\DOTNETCORE\dotnet\largest3\bin\Debug\net8.0\largest3.dll
+E:\DOTNETCORE\dotnet\largest3\bin\Debug\net8.0\largest3.pdb
+E:\DOTNETCORE\dotnet\largest3\obj\Debug\net8.0\largest3.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\largest3\obj\Debug\net8.0\largest3.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\largest3\obj\Debug\net8.0\largest3.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\largest3\obj\Debug\net8.0\largest3.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\largest3\obj\Debug\net8.0\largest3.dll
+E:\DOTNETCORE\dotnet\largest3\obj\Debug\net8.0\refint\largest3.dll
+E:\DOTNETCORE\dotnet\largest3\obj\Debug\net8.0\largest3.pdb
+E:\DOTNETCORE\dotnet\largest3\obj\Debug\net8.0\largest3.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\largest3\obj\Debug\net8.0\ref\largest3.dll

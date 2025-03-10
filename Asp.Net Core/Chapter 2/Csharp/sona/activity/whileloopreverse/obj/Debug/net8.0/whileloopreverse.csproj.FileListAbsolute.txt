@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\whileloopreverse\bin\Debug\net8.0\whileloopreverse.exe
+E:\DOTNETCORE\dotnet\whileloopreverse\bin\Debug\net8.0\whileloopreverse.deps.json
+E:\DOTNETCORE\dotnet\whileloopreverse\bin\Debug\net8.0\whileloopreverse.runtimeconfig.json
+E:\DOTNETCORE\dotnet\whileloopreverse\bin\Debug\net8.0\whileloopreverse.dll
+E:\DOTNETCORE\dotnet\whileloopreverse\bin\Debug\net8.0\whileloopreverse.pdb
+E:\DOTNETCORE\dotnet\whileloopreverse\obj\Debug\net8.0\whileloopreverse.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\whileloopreverse\obj\Debug\net8.0\whileloopreverse.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\whileloopreverse\obj\Debug\net8.0\whileloopreverse.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\whileloopreverse\obj\Debug\net8.0\whileloopreverse.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\whileloopreverse\obj\Debug\net8.0\whileloopreverse.dll
+E:\DOTNETCORE\dotnet\whileloopreverse\obj\Debug\net8.0\refint\whileloopreverse.dll
+E:\DOTNETCORE\dotnet\whileloopreverse\obj\Debug\net8.0\whileloopreverse.pdb
+E:\DOTNETCORE\dotnet\whileloopreverse\obj\Debug\net8.0\whileloopreverse.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\whileloopreverse\obj\Debug\net8.0\ref\whileloopreverse.dll

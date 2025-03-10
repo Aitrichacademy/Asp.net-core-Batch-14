@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\posneg\bin\Debug\net8.0\posneg.exe
+E:\DOTNETCORE\dotnet\posneg\bin\Debug\net8.0\posneg.deps.json
+E:\DOTNETCORE\dotnet\posneg\bin\Debug\net8.0\posneg.runtimeconfig.json
+E:\DOTNETCORE\dotnet\posneg\bin\Debug\net8.0\posneg.dll
+E:\DOTNETCORE\dotnet\posneg\bin\Debug\net8.0\posneg.pdb
+E:\DOTNETCORE\dotnet\posneg\obj\Debug\net8.0\posneg.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\posneg\obj\Debug\net8.0\posneg.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\posneg\obj\Debug\net8.0\posneg.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\posneg\obj\Debug\net8.0\posneg.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\posneg\obj\Debug\net8.0\posneg.dll
+E:\DOTNETCORE\dotnet\posneg\obj\Debug\net8.0\refint\posneg.dll
+E:\DOTNETCORE\dotnet\posneg\obj\Debug\net8.0\posneg.pdb
+E:\DOTNETCORE\dotnet\posneg\obj\Debug\net8.0\posneg.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\posneg\obj\Debug\net8.0\ref\posneg.dll

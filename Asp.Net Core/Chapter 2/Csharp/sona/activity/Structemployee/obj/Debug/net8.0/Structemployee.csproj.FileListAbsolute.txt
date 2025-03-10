@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\Structemployee\bin\Debug\net8.0\Structemployee.exe
+E:\DOTNETCORE\dotnet\Structemployee\bin\Debug\net8.0\Structemployee.deps.json
+E:\DOTNETCORE\dotnet\Structemployee\bin\Debug\net8.0\Structemployee.runtimeconfig.json
+E:\DOTNETCORE\dotnet\Structemployee\bin\Debug\net8.0\Structemployee.dll
+E:\DOTNETCORE\dotnet\Structemployee\bin\Debug\net8.0\Structemployee.pdb
+E:\DOTNETCORE\dotnet\Structemployee\obj\Debug\net8.0\Structemployee.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\Structemployee\obj\Debug\net8.0\Structemployee.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\Structemployee\obj\Debug\net8.0\Structemployee.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\Structemployee\obj\Debug\net8.0\Structemployee.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\Structemployee\obj\Debug\net8.0\Structemployee.dll
+E:\DOTNETCORE\dotnet\Structemployee\obj\Debug\net8.0\refint\Structemployee.dll
+E:\DOTNETCORE\dotnet\Structemployee\obj\Debug\net8.0\Structemployee.pdb
+E:\DOTNETCORE\dotnet\Structemployee\obj\Debug\net8.0\Structemployee.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\Structemployee\obj\Debug\net8.0\ref\Structemployee.dll

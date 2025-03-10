@@ -1,0 +1,14 @@
+E:\DOTNETCORE\dotnet\spacerescue\bin\Debug\net8.0\spacerescue.exe
+E:\DOTNETCORE\dotnet\spacerescue\bin\Debug\net8.0\spacerescue.deps.json
+E:\DOTNETCORE\dotnet\spacerescue\bin\Debug\net8.0\spacerescue.runtimeconfig.json
+E:\DOTNETCORE\dotnet\spacerescue\bin\Debug\net8.0\spacerescue.dll
+E:\DOTNETCORE\dotnet\spacerescue\bin\Debug\net8.0\spacerescue.pdb
+E:\DOTNETCORE\dotnet\spacerescue\obj\Debug\net8.0\spacerescue.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETCORE\dotnet\spacerescue\obj\Debug\net8.0\spacerescue.AssemblyInfoInputs.cache
+E:\DOTNETCORE\dotnet\spacerescue\obj\Debug\net8.0\spacerescue.AssemblyInfo.cs
+E:\DOTNETCORE\dotnet\spacerescue\obj\Debug\net8.0\spacerescue.csproj.CoreCompileInputs.cache
+E:\DOTNETCORE\dotnet\spacerescue\obj\Debug\net8.0\spacerescue.dll
+E:\DOTNETCORE\dotnet\spacerescue\obj\Debug\net8.0\refint\spacerescue.dll
+E:\DOTNETCORE\dotnet\spacerescue\obj\Debug\net8.0\spacerescue.pdb
+E:\DOTNETCORE\dotnet\spacerescue\obj\Debug\net8.0\spacerescue.genruntimeconfig.cache
+E:\DOTNETCORE\dotnet\spacerescue\obj\Debug\net8.0\ref\spacerescue.dll
